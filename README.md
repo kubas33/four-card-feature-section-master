@@ -34,8 +34,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/kubas33/four-card-feature-section-master
+- Live Site URL: https://kubas33.github.io/four-card-feature-section-master/
 
 ## My process
 
@@ -50,6 +50,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - https://github.com/kubas33
+- Frontend Mentor - https://www.frontendmentor.io/profile/kubas33
 
